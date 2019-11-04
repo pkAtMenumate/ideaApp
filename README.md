@@ -1,0 +1,2 @@
+# ideaApp
+To share ideas
